@@ -21,15 +21,21 @@ Installing the pandas library.Pandas library is used for cleaning and preprocess
 pip install pandas
 ```
 Installing the nltk library. NLTK library is used for text classification.
-```pip install nltk```
+```
+pip install nltk
+```
 Next download the nltk library using nltk.download() command.
 These commands are running into the terminal.
 Installing the tesseract software. This software is used to extract the text from the image. After the installation of tesseract software tessecret library is used to extract the data.
-+Installing the tkinter.Tkinter is used for developing the api in python.
-```pip install tkinter ```
+Installing the tkinter.Tkinter is used for developing the api in python.
+```
+pip install tkinter 
+```
 This command is used to install the tkinter. 
 +Scikit-learn is a free machine learning library for Python. It features various algorithms like support vector machines, random forests, and k-neighbours, and it also supports Python numerical and scientific libraries like NumPy and SciPy .
-```pip install scikit-learn```
+```
+pip install scikit-learn
+```
 
 
 
