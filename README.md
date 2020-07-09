@@ -14,8 +14,8 @@ Installing the pycharm IDE for running the program.
   ```
 Installing the numpy library in pycharm IDE.
   ```
-pip install numpy
-```
+  pip install numpy
+  ```
 Installing the pandas library.Pandas library is used for cleaning and preprocessing the data. It is used to remove the null value.
 ```
 pip install pandas
