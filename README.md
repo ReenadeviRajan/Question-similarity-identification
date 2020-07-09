@@ -9,9 +9,9 @@
 	Tesseract Library
 # Installing
 Installing the pycharm IDE for running the program.
-'''
+' ' '
 https://www.jetbrains.com/pycharm/download/ 
-'''
+' ' '
 Installing the numpy library in pycharm IDE.
 '''
 pip install numpy
