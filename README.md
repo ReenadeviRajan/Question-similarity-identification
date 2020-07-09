@@ -9,11 +9,17 @@
 	Tesseract Library
 # Installing
 Installing the pycharm IDE for running the program.
-'''https://www.jetbrains.com/pycharm/download/ '''
+'''
+https://www.jetbrains.com/pycharm/download/ 
+'''
 Installing the numpy library in pycharm IDE.
-'''pip install numpy'''
+'''
+pip install numpy
+'''
 Installing the pandas library.Pandas library is used for cleaning and preprocessing the data. It is used to remove the null value.
-'''pip install panda'''
+'''
+pip install pandas
+'''
 Installing the nltk library. NLTK library is used for text classification.
 '''pip install nltk'''
 Next download the nltk library using nltk.download() command.
