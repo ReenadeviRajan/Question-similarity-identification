@@ -1,0 +1,101 @@
+,question1
+0,How do you find the missing number in a given integer array of 1 to 100?
+1,How do you find the duplicate number on a given integer array?
+2,How do you find the largest and smallest number in an unsorted integer array?
+3,How do you find all pairs of an integer array whose sum is equal to a given number?
+4,How do you find duplicate numbers in an array if it contains multiple duplicates?
+5,How are duplicates removed from a given array in Java?
+6,How is an integer array sorted in place using the quicksort algorithm?
+7,How do you remove duplicates from an array in place?
+8,How do you reverse an array in place in Java?
+9,How are duplicates removed from an array without using any library?
+10,How do you find the missing number in a given integer array of 1 to 100? (solution)
+11,How do you find the duplicate number on a given integer array? (solution)
+12,How do you find the largest and smallest number in an unsorted integer array? (solution)
+13,How do you find all pairs of an integer array whose sum is equal to a given number? (solution)
+14,How do you find duplicate numbers in an array if it contains multiple duplicates? (solution)
+15,How are duplicates removed from a given array in Java? (solution)
+16,How is an integer array sorted in place using the quicksort algorithm? (solution)
+17,How do you remove duplicates from an array in place? (solution)
+18,How do you reverse an array in place in Java? (solution)
+19,How are duplicates removed from an array without using any library? (solution)
+20,How do you find the middle element of a singly linked list in one pass?
+21,How do you check if a given linked list contains a cycle? How do you find the starting node of the cycle?
+22,How do you reverse a linked list?
+23,How do you reverse a singly linked list without recursion?
+24,How are duplicate nodes removed in an unsorted linked list?
+25,How do you find the length of a singly linked list?
+26,How do you find the third node from the end in a singly linked list?
+27,How do you find the sum of two linked lists using Stack?
+28,How do you find the middle element of a singly linked list in one pass? (solution)
+29,How do you check if a given linked list contains a cycle? How do you find the starting node of the cycle? (solution)
+30,How do you reverse a linked list? (solution)
+31,How do you reverse a singly linked list without recursion? (solution)
+32,How are duplicate nodes removed in an unsorted linked list? (solution)
+33,How do you find the length of a singly linked list? (solution)
+34,How do you find the third node from the end in a singly linked list? (solution)
+35,How do you find the sum of two linked lists using Stack? (solution)
+36,How do you print duplicate characters from a string?
+37,How do you check if two strings are anagrams of each other?
+38,How do you print the first non-repeated character from a string?
+39,How can a given string be reversed using recursion?
+40,How do you check if a string contains only digits?
+41,How are duplicate characters found in a string?
+42,How do you count a number of vowels and consonants in a given string?
+43,How do you count the occurrence of a given character in a string?
+44,How do you find all permutations of a string?
+45,How do you reverse words in a given sentence without using any library method?
+46,How do you check if two strings are a rotation of each other?
+47,How do you check if a given string is a palindrome?
+48,How do you print duplicate characters from a string? (solution)
+49,How do you check if two strings are anagrams of each other? (solution)
+50,How do you print the first non-repeated character from a string? (solution)
+51,How can a given string be reversed using recursion? (solution)
+52,How do you check if a string contains only digits? (solution)
+53,How are duplicate characters found in a string? (solution)
+54,How do you count a number of vowels and consonants in a given string? (solution)
+55,How do you count the occurrence of a given character in a string? (solution)
+56,How do you find all permutations of a string? (solution)
+57,How do you reverse words in a given sentence without using any library method? (solution)
+58,How do you check if two strings are a rotation of each other? (solution)
+59,How do you check if a given string is a palindrome? (solution)
+60,How is a binary search tree implemented?
+61,How do you perform preorder traversal in a given binary tree?
+62,How do you traverse a given binary tree in preorder without recursion?
+63,How do you perform an inorder traversal in a given binary tree?
+64,How do you print all nodes of a given binary tree using inorder traversal without recursion?
+65,How do you implement a postorder traversal algorithm?
+66,How do you traverse a binary tree in postorder traversal without recursion?
+67,How are all leaves of a binary search tree printed?
+68,How do you count a number of leaf nodes in a given binary tree?
+69,How do you perform a binary search in a given array?
+70,How is a binary search tree implemented? (solution)
+71,How do you perform preorder traversal in a given binary tree? (solution)
+72,How do you traverse a given binary tree in preorder without recursion? (solution)
+73,How do you perform an inorder traversal in a given binary tree? (solution)
+74,How do you print all nodes of a given binary tree using inorder traversal without recursion? (solution)
+75,How do you implement a postorder traversal algorithm? (solution)
+76,How do you traverse a binary tree in postorder traversal without recursion? (solution)
+77,How are all leaves of a binary search tree printed? (solution)
+78,How do you count a number of leaf nodes in a given binary tree? (solution)
+79,How do you perform a binary search in a given array? (solution)
+80,How is a bubble sort algorithm implemented?
+81,How is an iterative quicksort algorithm implemented?
+82,How do you implement an insertion sort algorithm?
+83,How is a merge sort algorithm implemented?
+84,How do you implement a bucket sort algorithm?
+85,How do you implement a counting sort algorithm?
+86,How is a radix sort algorithm implemented?
+87,How do you swap two numbers without using the third variable?
+88,How do you check if two rectangles overlap with each other?
+89,How do you design a vending machine?
+90,How is a bubble sort algorithm implemented? (solution)
+91,How is an iterative quicksort algorithm implemented? (solution)
+92,How do you implement an insertion sort algorithm? (solution)
+93,How is a merge sort algorithm implemented? (solution)
+94,How do you implement a bucket sort algorithm? (solution)
+95,How do you implement a counting sort algorithm? (solution)
+96,How is a radix sort algorithm implemented? (solution)
+97,How do you swap two numbers without using the third variable? (solution)
+98,How do you check if two rectangles overlap with each other? (solution)
+99,How do you design a vending machine? (solution)
