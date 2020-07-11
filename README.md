@@ -13,4 +13,5 @@
 ## Process to execution
    1. Web_scrapy.py - To extract the string from the given website and get the training dataset.
    2. Dupicate_question_code.py - To find out the similar question.
+   3. Image_to_data&&Latex.py - To extract the text from the image and conversion of latex
   
