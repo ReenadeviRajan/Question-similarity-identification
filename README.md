@@ -12,6 +12,6 @@
    9. The input text ask_question function will execute.
   10. The input is an image. It extracts the text from the image and executes the ask_question function.
   11. When the Latex input is given to convert into the sympy form. Then find out the similarity.
-  12. The output file is stored as text named Duplicate. It contains the Input Question, Similar Question with similarity percentage.
+  12. The output text file is stored as Duplicate.txt. It contains the Input Question, Similar Question with similarity percentage.
 
   
