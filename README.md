@@ -6,9 +6,11 @@
    3. For input data crawl websites to scrape html strings. The scraped html string stored as train.csv.The input is an image,it extracts the text from the image and stored to the input data.The Latex input is occured it converts the latex form to sympy and stored to the input data.
    4. Read the training dataset. The training dataset contains questions.
    5. In train() it is used to remove the null values in the training dataset. 
-   6. In the Lemmatization process it groups together the different inflected forms of a word so they can be analysed as a single item. 
+   6. In the Lemmatization process, it groups together the different inflected forms of a word so they can be analysed as a single item. 
    7. In my_tokenizer() it removes the stopwords,finds out the part of speech using pos-tag and returns the list of words. 
    8. In ask_question() the TfidfVectorizer will tokenize documents, learn the vocabulary and inverse document frequency weightings, and allow you to encode new documents. Fit.transform() is used to learn vocabulary and inverse document frequency, return document-term matrix. Cosine similarity is a metric used to measure how similar the documents are irrespective of their size. After that similar questions are appended into the document with similarity.
    9. The output text file is stored as Duplicate.txt. It contains the Input Question, Similar Question with similarity percentage.
-
+## Process to execution
+   1. Web_scrapy.py - To extract the string from the given website and get the training dataset.
+   2. Dupicate_question_code.py - To find out the similar question.
   
