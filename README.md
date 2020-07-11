@@ -13,41 +13,5 @@
   10. The input is an image. It extracts the text from the image and executes the ask_question function.
   11. When the Latex input is given to convert into the sympy form. Then find out the similarity.
   12. The output file is stored as text named Duplicate. It contains the Input Question, Similar Question with similarity percentage.
-### Prerequestics
-  * Python IDE-Pycharm
-  * NLTK Data library
-  * Tesseract Library
-### Installing
-Installing the pycharm IDE for running the program.
-  ```
-  https://www.jetbrains.com/pycharm/download/ 
-  ```
-Installing the numpy library in pycharm IDE.
-  ```
-  pip install numpy
-  ```
-Installing the pandas library.Pandas library is used for cleaning and preprocessing the data. It is used to remove the null value.
-```
-pip install pandas
-```
-Installing the nltk library. NLTK library is used for text classification.
-```
-pip install nltk
-```
-Next download the nltk library using nltk.download() command.
-These commands are running into the terminal.
-Installing the tesseract software. This software is used to extract the text from the image. After the installation of tesseract software tessecret library is used to extract the data.
-Installing the tkinter.Tkinter is used for developing the api in python.
-```
-pip install tkinter 
-```
-This command is used to install the tkinter. 
-+Scikit-learn is a free machine learning library for Python. It features various algorithms like support vector machines, random forests, and k-neighbours, and it also supports Python numerical and scientific libraries like NumPy and SciPy .
-```
-pip install scikit-learn
-```
 
-
-
-
-
+  
