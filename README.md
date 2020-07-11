@@ -1,6 +1,6 @@
-# Question Similarity Identification
+# Algorithm
   NLTK is a powerful Python package that provides a set of diverse natural language algorithms. It is free, opensource, easy to use, large community, and well documented. Tokenizing and part of speech tagging algorithms are used to find the duplication of questions in a given series of data. The process of breaking down a text paragraph into smaller chunks such as words or sentences is called Tokenization. Token is a single entity that is building blocks for sentences or paragraphs. The process of classifying words into their parts of speech and labeling them accordingly is known as part-of-speech tagging.A part-of-speech tagger processes a sequence of words, and attaches a part of speech tag to each word.
-# Getting Started
+# Explanation
    1. Create a new project in the pycharm. 
    2. Install the pandas,numpy,tkinter,nltk,tessecret libraries. 
    3. For input data crawl websites to scrape html strings. The scraped html string stored as train.csv.The input is an image,it extracts the text from the image and stored to the input data.The Latex input is occured it converts the latex form to sympy and stored to the input data.
